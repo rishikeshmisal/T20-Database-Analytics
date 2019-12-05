@@ -1,0 +1,12 @@
+{
+	"ImportPath": "t20CricketQuery",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.6.0-5-g7904d2e",
+			"Rev": "7904d2e42e7ebbdb4a6eb3e57eb201b11df25c57"
+		}
+	]
+}
