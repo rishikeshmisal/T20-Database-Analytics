@@ -1,7 +1,7 @@
 {
-	"ImportPath": "t20CricketQuery",
-	"GoVersion": "go1.8",
-	"GodepVersion": "v79",
+	"ImportPath": "T20-Database-Analytics",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
 	"Deps": [
 		{
 			"ImportPath": "github.com/gorilla/mux",
